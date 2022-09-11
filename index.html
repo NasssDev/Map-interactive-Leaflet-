@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Projet map</title>
+	<link rel="stylesheet" type="text/css" href="map.css">
+	<script type="text/javascript" src="map.js" defer></script>
+	<link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"/>
+	<script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+</head>
+<body>
+	<div class="header">
+		Carte interactive
+	</div>
+	<div class="mainLeft">		
+		<div><h2 class="text1">Recherchez votre adresse !</h2></div>
+		<form class="formul" id="formulaire"></form>
+		<p><img src="image/purpleWorld.png" class="world" > </p>
+	</div>
+	<div class="mainRight">
+		<div class="panel">
+			<input name="adresse" id="adresse" placeholder="Ex : 41 Rue Beaubourg, 75003 Paris"></input>
+			<div id="selection" style="display: none;" class="data"></div>
+			<div class="map" id="mapid"></div>
+		</div>
+	</div>
+</body>
+</html>
