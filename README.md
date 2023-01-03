@@ -18,12 +18,12 @@ Attention pour les pré-requis j'espère que vous êtes prêt ...
 
 - Connaitre au moins 1 région
 - Connaitre au moins 1 département
-- Et enfin connaitre au moins 1 adresse
+- Et enfin connaitre au moins 1 adresse complète
 
 
 ## Démarrage
 
-Vous pouvez tester le projet et le modifier en [cliquant ici](https://githubbox.com/NasssDev/Map-interactive-Leaflet-)
+Vous pouvez tester le projet en [cliquant ici](https://xclzc8.csb.app/) ou bien en le clonant !
 ## Fabriqué avec
 
 
