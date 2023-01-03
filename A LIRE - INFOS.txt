@@ -1,3 +1,0 @@
-Bonjour, 
-
-Ici c'est un petit projet que j'ai fait en javascript exclusivement en utilisant la blibliothèque leaflet !
