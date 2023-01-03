@@ -1,5 +1,7 @@
 # Map Interactive
 
+![world](/Image/purpleWorld.png)
+
 [![forthebadge](http://forthebadge.com/images/badges/made-with-javascript.svg)](http://forthebadge.com)  
 
 Voici une map interactive avec laquelle vous pourrez rechercher votre ville, voir sa forme ou bien encore taper votre adresse directement dans la barre de recherche (il s'agit de mon premier projet suite à l'apprentissage du langage JavaScript).
